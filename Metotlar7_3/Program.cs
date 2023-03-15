@@ -46,6 +46,7 @@ namespace Metotlar7_3
                 int gun = Convert.ToInt32(Console.ReadLine());
                 Console.WriteLine("oda fiyat giriniz");
                 int fiyat = Convert.ToInt32(Console.ReadLine());
+
                 int sonuc = Tutarhesaplama(fiyat, gun);
                 ekstraOzellik(sonuc);
             }

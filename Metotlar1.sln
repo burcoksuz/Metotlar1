@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar7_3", "Metotlar7_3\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar9", "Metotlar9\Metotlar9.csproj", "{0C08183E-09BF-4888-BDED-B29EBFBBC412}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar10", "Metotlar10\Metotlar10.csproj", "{BF7B8A0F-72D8-42C5-8DB0-E486F06566A3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{0C08183E-09BF-4888-BDED-B29EBFBBC412}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C08183E-09BF-4888-BDED-B29EBFBBC412}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C08183E-09BF-4888-BDED-B29EBFBBC412}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF7B8A0F-72D8-42C5-8DB0-E486F06566A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF7B8A0F-72D8-42C5-8DB0-E486F06566A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF7B8A0F-72D8-42C5-8DB0-E486F06566A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF7B8A0F-72D8-42C5-8DB0-E486F06566A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
